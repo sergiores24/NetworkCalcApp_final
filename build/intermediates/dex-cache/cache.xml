@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d4a792d286f7a36dc7c2d24a39cc1491ff3fe68d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f2369d0a7e42d94f6e288ffe71fe69d37d62f131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e1ca062e420a54dc74b9e06c5e5aeee49f7fe063">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0394e4a8016b63ba26f4a74528e03f6bb7a54804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_c4f3505205d6ed9e8cd555842305984eed190b13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_f761bc42553f45e71c6c62557560e0f8a977bb58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_1fd0c27436f4d666d70e508b4cd9225347fb0ce9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_170c5498a56a0f8cc26c02fda7cae5949a65d070/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_52c9daf114af060128bfb91e6e506156fc677fb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_44e9d52e1d9b6c96c228fa439e148a83802b531f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_5e4bf1bd1090d0af6a4dd706ef1ce3d70e3a0283/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_5076029120c857daf1782237823c50c0676351c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha9_c7e74905f47a8c33c30f068febceeb012221db31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="28fb620f4ff3240fa30e8953c9ca7dd3f4c3bb48">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8dc286d37426b4ed1beabac264c6be124dac968c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2c8ab2a482577e4b3a88b84bc14716440e2198bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_cd6a4fb3e233b45499854e49da4926095ee636e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_037d667216a5e9231e1ff66f83534d54cf3e784c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c4542c9ebfe2003d83fcfbb7f2528f83d032ef51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha9/constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha9_84517f82e6d65d72fdb83ff3742d707c34ead4d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_1706be0cfcb2a092f431857100349092296cc4ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Tetrimino/Documents/NetworkCalcApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ebebdf5fc9a4dc40d180efab0278887946849095/classes.dex" />
+    </item>
+
+</items>
